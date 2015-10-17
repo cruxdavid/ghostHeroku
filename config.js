@@ -12,7 +12,7 @@ config = {
     // Configure your URL and mail settings here
     //:@ec2-54-204-15-48.compute-1.amazonaws.com:5432/
     production: {
-        url: 'http://my-ghost-blog.com',
+        url: 'http://pacific-temple-4876.herokuapp.com',
         mail: {},
         database: {
             client: 'postgres',
